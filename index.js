@@ -17,8 +17,8 @@ function shout(string) {
 function sayHiToGrandma(sentence) {
    if(sentence == "I love you, Grandma.") {
      return "I love you, too."
-   } else if(sentence == whisper(string)) {
-     "YES INDEED!"
+   } else if(sentence == whisper(sentence)) {
+     return 
    }else {
      return "I love you, too."
    }
