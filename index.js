@@ -20,7 +20,7 @@ function sayHiToGrandma(sentence) {
    } else if(sentence == whisper(sentence)) {
      return "I can't hear you!"
    }else {
-     return 
+     return "YES INDEED!"
    }
  }
   
