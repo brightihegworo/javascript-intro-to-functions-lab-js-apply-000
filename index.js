@@ -17,7 +17,7 @@ function shout(string) {
 function sayHiToGrandma(sentence) {
    if(sentence == "I love you, Grandma.") {
      return "I love you, too."
-   } else if(string === string.toUpperCase.()) {
+   } else if(sentence == whisper(string) ) {
      "YES INDEED!"
    }else {
      return "I love you, too."
